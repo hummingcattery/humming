@@ -1,8 +1,8 @@
 {
-  "name": "humming-cattery",
+  "name": "humming",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://tarotom.github.io/HummingCattery/",
+  "homepage": "https://hummingcattery.github.io/Humming/",
   "type": "module",
   "scripts": {
     "dev": "vite",

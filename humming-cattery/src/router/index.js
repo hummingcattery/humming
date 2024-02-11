@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory, createWebHashHistory  } from 'vue-router'
+import { createRouter, createWebHistory  } from 'vue-router'
 import Home from "@/views/Home.vue";
 import Mollies from "@/views/Mollies.vue"
 import Tomcats from "@/views/Tomcats.vue"
@@ -58,7 +58,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHashHistory (),
+  history: createWebHistory(),
   routes
 })
 
