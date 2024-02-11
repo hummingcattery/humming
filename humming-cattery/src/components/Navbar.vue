@@ -15,7 +15,7 @@
                         <div class="d-flex justify-content-around">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
-                                    <router-link to="/HummingCattery">Etusivu</router-link>
+                                    <router-link to="/Humming">Etusivu</router-link>
                                 </li>
                                 <li class="nav-item">
                                     <router-link to="/News">Uutiset</router-link>
