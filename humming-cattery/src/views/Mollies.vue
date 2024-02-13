@@ -7,7 +7,7 @@
             <p>Näyttelymenestys (nuorten luokka): 3xBIV, 5xNOM, 1xBIS</p>
             <p>Sukutaulu: Linkki omakissaan</p>
             <div>
-                <img class="alignleft wp-image-17" title="" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Hillevi_01.jpg" alt="Hillevi" width="1300" height="953">
+                <img class="img-fluid" title="Demi Johnnatarie -E" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Hillevi_01.jpg" alt="Hillevi" width="1300" height="953">
             </div>
         </div>
 
@@ -19,7 +19,7 @@
             <p>Näyttelymenestys (pennut): 2xCACC</p>
             <p>Sukutaulu: Linkki omakissaan</p>
             <div>
-                <img class="alignleft wp-image-17" title="" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Hulda_01.jpg" alt="Hulda" width="700" height="1000">
+                <img class="img-fluid" title="Unica vom Lilienweg" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Hulda_01.jpg" alt="Hulda" width="700" height="1000">
             </div>
         </div>
 
