@@ -5,7 +5,7 @@
                 <p>Harppu</p>
                 <p>SP SC Zhamanen Harlequin, DVM DSM</p>
                 <a title="SC Zhamanen Harlequin, DVM" href="https://web.archive.org/web/20130401081104/http://humming.nettisivu.org/naaraat/sc-fizhamanen-harlequin-dvm/">
-                    <img class="alignleft size-medium wp-image-16" title="SC FI*Zhamanen Harlequin, DVM" src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\assets\Images\1609504678664.jpg" alt="Harppu" width="300" height="259">
+                    <img class="alignleft size-medium wp-image-16" title="SC FI*Zhamanen Harlequin, DVM" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\dist\assets\Harppu_01.jpg" alt="Harppu" width="900" height="660">
                 </a>
             </p>
             <p>
