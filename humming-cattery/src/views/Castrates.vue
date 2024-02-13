@@ -4,9 +4,9 @@
             <p>
                 <p>Halka</p>
                 <p>SC Recknagel Tairapänks, DVM</p>
-                <a title="SC Recknagel Tairapänks, DVM" href="https://web.archive.org/web/20130401081104/http://humming.nettisivu.org/naaraat/sc-recknagel-tairapanks-dvm/">
-                    <img class="alignleft wp-image-17" title="SC FI*Recknagel Tairapänks" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\dist\assets\Halka_01.jpg" alt="Halka" width="900" height="600">
-                </a>
+                <div>
+                    <img class="alignleft wp-image-17" title="SC FI*Recknagel Tairapänks" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Halka_01.jpg" alt="Halka" width="900" height="600">
+                </div>
             </p>
             <p>
                 SBI a
@@ -30,10 +30,10 @@
 
         <div>
             <p>
-                <p>Hekla :)</p>
-                <a title="" href="">
+                <p>Hekla</p>
+                <div>
                     <img class="alignleft wp-image-17" title="" src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\assets\Images\20230721_011959.jpg" alt="Hekla" width="273" height="373">
-                </a>
+                </div>
             </p>
         </div>
 
