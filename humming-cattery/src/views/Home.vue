@@ -2,6 +2,9 @@
     <div>
         <h1>Tervetuloa Etusivulle!</h1>
     </div>
+    <div>
+        <img class="img-fluid" title="Unica vom Lilienweg" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Hulda_01.jpg" alt="Hulda" width="700" height="1000">
+    </div>
     <!-- <div class="pageContent">
         <div class="navbarContent"> -->
             <!-- navbar -->
