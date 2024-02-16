@@ -4,7 +4,7 @@
     </div>
 
     <div>
-        <p>Pennut korissa :)</p>
+        <p>Pentukoriin tulossa täytettä kevään 2024 aikana!</p>
     </div>
 
     <hr>
