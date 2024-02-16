@@ -23,6 +23,9 @@
                     </a>
                     </section>
                 </div>
+                <div>
+                    <p>Päivitetty 16.2.2024</p>
+                </div>
             </footer>
         </div>
     </div>
@@ -46,5 +49,9 @@
     .footerContent {
         align-items: center;
         /* display: inline-flex; */
+    }
+
+    div > p {
+        color: black;
     }
 </style>
