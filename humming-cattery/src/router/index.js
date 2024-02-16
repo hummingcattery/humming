@@ -1,7 +1,6 @@
 import { createRouter, createWebHistory  } from 'vue-router'
 import Home from "@/views/Home.vue";
 import Mollies from "@/views/Mollies.vue"
-import Tomcats from "@/views/Tomcats.vue"
 import Castrates from "@/views/Castrates.vue"
 import InMemoriam from "@/views/InMemoriam.vue"
 import News from "@/views/News.vue"
@@ -19,11 +18,6 @@ const routes = [
     path: "/Mollies",
     name: "Mollies",
     component: Mollies,
-  },
-  {
-    path: "/Tomcats",
-    name: "Tomcats",
-    component: Tomcats,
   },
   {
     path: "/Castrates",

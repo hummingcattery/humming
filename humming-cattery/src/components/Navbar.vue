@@ -25,7 +25,6 @@
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                         <!-- <li><a class="dropdown-item" href="#">Naaraat</a></li> -->
                                         <li><router-link class="nav-link" to="/Mollies">Naaraat</router-link></li>
-                                        <li><router-link class="nav-link" to="/Tomcats">Urokset</router-link></li>
                                         <li><router-link class="nav-link" to="/Castrates">Kastraatit</router-link></li>
                                         <li><router-link class="nav-link" to="/InMemoriam">Muistoissa</router-link></li>
                                     </ul>
