@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div>
+        <div class="content-container">
             <p>
                 <p>Halka</p>
                 <p>SC Recknagel Tairapänks, DVM</p>
@@ -28,7 +28,7 @@
 
         <hr>
 
-        <div>
+        <div class="content-container">
             <p>
                 <p>Hekla</p>
                 <div>
@@ -41,3 +41,9 @@
         
   </div>
 </template>
+
+<style lang="scss" scoped>
+    .content-container {
+        background-color: #F8F3FC;
+    }
+</style>

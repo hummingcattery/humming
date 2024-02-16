@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div>
+        <div class="content-container">
             <p>
                 <p>Harppu</p>
                 <p>SP SC Zhamanen Harlequin, DVM DSM</p>
@@ -28,3 +28,9 @@
 
   </div>
 </template>
+
+<style lang="scss" scoped>
+    .content-container {
+        background-color: #F8F3FC;
+    }
+</style>
