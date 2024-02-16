@@ -7,6 +7,7 @@ import News from "@/views/News.vue"
 import KittenBasket from "@/views/KittenBasket.vue"
 import KittenInfo from "@/views/KittenInfo.vue"
 import Breeder from "@/views/Breeder.vue"
+import Contact from "@/views/Contact.vue"
 
 const routes = [
   {
@@ -48,6 +49,11 @@ const routes = [
     path: "/Breeder",
     name: "Breeder",
     component: Breeder,
+  },
+  {
+    path: "/Contact",
+    name: "Contact",
+    component: Contact,
   },
 ];
 

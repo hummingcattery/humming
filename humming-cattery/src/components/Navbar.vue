@@ -47,6 +47,7 @@
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                         <li><router-link class="nav-link" to="/Breeder">Kasvattaja</router-link></li>
                                         <li><router-link class="nav-link" to="/KittenInfo">Pentu-info</router-link></li>
+                                        <li><router-link class="nav-link" to="/Contact">Ota yhteyttä</router-link></li>
                                     </ul>
                                 </li>
                             </ul>
