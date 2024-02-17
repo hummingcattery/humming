@@ -39,6 +39,7 @@
                                         <li><router-link class="nav-link" to="/2Pentue">2. pentue</router-link></li>
                                         <li><router-link class="nav-link" to="/3Pentue">3. pentue</router-link></li>
                                         <li><router-link class="nav-link" to="/4Pentue">4. pentue</router-link></li>
+                                        <li><router-link class="nav-link" to="/5Pentue">5. pentue</router-link></li>
                                     </ul>
                                 </li>
                                 <li class="nav-item dropdown">

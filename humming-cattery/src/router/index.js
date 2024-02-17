@@ -12,6 +12,7 @@ import Pentue1 from "@/views/Pentue1.vue"
 import Pentue2 from "@/views/Pentue2.vue"
 import Pentue3 from "@/views/Pentue3.vue"
 import Pentue4 from "@/views/Pentue4.vue"
+import Pentue5 from "@/views/Pentue5.vue"
 
 const routes = [
   {
@@ -78,6 +79,11 @@ const routes = [
     path: "/4pentue",
     name: "4pentue",
     component: Pentue4,
+  },
+  {
+    path: "/5pentue",
+    name: "5pentue",
+    component: Pentue5,
   },
 ];
 
