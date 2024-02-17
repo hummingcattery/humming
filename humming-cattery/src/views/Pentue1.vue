@@ -1,11 +1,11 @@
 <template>
     <div>
-        <h1>1. pentue</h1>
+      <h1>1. pentue</h1>
     </div>
 
     <div class="content-container">
-        <h2>SC Zhamanen Harlequin DVM x Tamus Thunderbird</h2>
-        <p>Synt. 3.3.2013</p>
+      <h2>SC Zhamanen Harlequin DVM x Tamus Thunderbird</h2>
+      <p>Synt. 3.3.2013</p>
     </div>
     
     <h3>Pennut</h3>
