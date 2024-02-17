@@ -10,6 +10,7 @@ import Breeder from "@/views/Breeder.vue"
 import Contact from "@/views/Contact.vue"
 import Pentue1 from "@/views/Pentue1.vue"
 import Pentue2 from "@/views/Pentue2.vue"
+import Pentue3 from "@/views/Pentue3.vue"
 
 const routes = [
   {
@@ -66,6 +67,11 @@ const routes = [
     path: "/2pentue",
     name: "2pentue",
     component: Pentue2,
+  },
+  {
+    path: "/3pentue",
+    name: "3pentue",
+    component: Pentue3,
   },
 ];
 

@@ -37,6 +37,7 @@
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                         <li><router-link class="nav-link" to="/1Pentue">1. pentue</router-link></li>
                                         <li><router-link class="nav-link" to="/2Pentue">2. pentue</router-link></li>
+                                        <li><router-link class="nav-link" to="/3Pentue">3. pentue</router-link></li>
                                     </ul>
                                 </li>
                                 <li class="nav-item dropdown">
