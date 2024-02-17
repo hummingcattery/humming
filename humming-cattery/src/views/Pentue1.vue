@@ -31,7 +31,6 @@
     <div>
         <img class="img-fluid" title="1. pentue" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\pentue_01.jpg" alt="1. pentue" width="903" height="570">
     </div>
-
 </template>
 
 <style lang="scss" scoped>
