@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="content-container">
-            <p>Hillevi</p>
+            <h5>Hillevi</h5>
             <p>Demi Johnnatarie -E / synt. 1.3.2022 / SBI b</p>
             <p>Yhteisomistuksessa LeeviL-kissalan kanssa</p>
             <p>Näyttelymenestys (nuorten luokka): 3xBIV, 5xNOM, 1xBIS</p>
@@ -14,7 +14,7 @@
         <hr>
 
         <div class="content-container">
-            <p>Hulda</p>
+            <h5>Hulda</h5>
             <p>Unica vom Lilienweg / synt. 7.8.2023 / SBI b 21</p>
             <p>Näyttelymenestys (pennut): 2xCACC</p>
             <p>Sukutaulu: Linkki omakissaan</p>
@@ -31,5 +31,9 @@
 <style lang="scss" scoped>
     .content-container {
         background-color: #F8F3FC;
+    }
+
+    h5 {
+        font-weight: bold;
     }
 </style>

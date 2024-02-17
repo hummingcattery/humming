@@ -2,7 +2,7 @@
     <div>
         <div class="content-container">
             <p>
-                <p>Halka</p>
+                <h5>Halka</h5>
                 <p>SC Recknagel Tairapänks, DVM</p>
                 <div col-3>
                     <img class="img-fluid" title="SC FI*Recknagel Tairapänks" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Halka_01.jpg" alt="Halka" width="900" height="600">
@@ -30,7 +30,7 @@
 
         <div class="content-container">
             <p>
-                <p>Hekla</p>
+                <h5>Hekla</h5>
                 <div>
                     <img class="img-fluid" title="Hekla" src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\assets\Images\20230721_011959.jpg" alt="Hekla" width="273" height="373">
                 </div>
@@ -45,5 +45,9 @@
 <style lang="scss" scoped>
     .content-container {
         background-color: #F8F3FC;
+    }
+
+    h5 {
+        font-weight: bold;
     }
 </style>

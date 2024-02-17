@@ -2,6 +2,7 @@
     <div>
         <div class="content-container">
             <p>
+                <h5>Harppu</h5>
                 <p>Harppu</p>
                 <p>SP SC Zhamanen Harlequin, DVM DSM</p>
                 <div>
@@ -32,5 +33,9 @@
 <style lang="scss" scoped>
     .content-container {
         background-color: #F8F3FC;
+    }
+
+    h5 {
+        font-weight: bold;
     }
 </style>
