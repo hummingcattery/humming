@@ -10,25 +10,20 @@
     
     <h3>Pennut</h3>
     <table class="table table-bordered custom-table">
-    <!-- <thead> -->
-      <!-- <tr>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Email</th>
-      </tr> -->
-    <!-- </thead> -->
     <tbody>
       <tr>
         <td>Humming Ummagumma</td>
         <td>SBI b</td>
         <td>uros</td>
-        <td>Näyttelytasoinen (Nominated for BIS)</td>
+        <td>Näyttelytasoinen</td>
+        <td>Nominated for BIS</td>
       </tr>
       <tr>
         <td>Humming High Hopes</td>
         <td>SBI c</td>
         <td>naaras</td>
-        <td>Siitostasoinen (BIS-winner)</td>
+        <td>Siitostasoinen</td>
+        <td>BIS-winner</td>
       </tr>
     </tbody>
   </table>
