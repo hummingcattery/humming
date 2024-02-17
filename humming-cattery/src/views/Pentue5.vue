@@ -10,27 +10,31 @@
     
     <h3>Pennut</h3>
     <table class="table table-bordered custom-table">
-    <tbody>
-      <tr>
-        <td>Humming Musik Non Stop</td>
-        <td>SBI c</td>
-        <td>uros</td>
-        <td>Lemmikki</td>
-      </tr>
-      <tr>
-        <td>Humming Stoppa Mig Juni</td>
-        <td>SBI b</td>
-        <td>uros</td>
-        <td>Lemmikki</td>
-      </tr>
-      <tr>
-        <td>Humming Visslaren</td>
-        <td>SBI c 21</td>
-        <td>naaras</td>
-        <td>Lemmikki</td>
-      </tr>
-    </tbody>
-  </table>
+      <tbody>
+        <tr>
+          <td>Humming Musik Non Stop</td>
+          <td>SBI c</td>
+          <td>uros</td>
+          <td>Lemmikki</td>
+        </tr>
+        <tr>
+          <td>Humming Stoppa Mig Juni</td>
+          <td>SBI b</td>
+          <td>uros</td>
+          <td>Lemmikki</td>
+        </tr>
+        <tr>
+          <td>Humming Visslaren</td>
+          <td>SBI c 21</td>
+          <td>naaras</td>
+          <td>Lemmikki</td>
+        </tr>
+      </tbody>
+    </table>
+  
+    <div>
+      <img class="img-fluid" title="5. pentue" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\pentue_05_01.jpg" alt="5. pentue" width="1141" height="1600">
+    </div>
 </template>
 
 <style lang="scss" scoped>
