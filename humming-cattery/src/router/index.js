@@ -8,6 +8,7 @@ import KittenBasket from "@/views/KittenBasket.vue"
 import KittenInfo from "@/views/KittenInfo.vue"
 import Breeder from "@/views/Breeder.vue"
 import Contact from "@/views/Contact.vue"
+import Pentue1 from "@/views/Pentue1.vue"
 
 const routes = [
   {
@@ -54,6 +55,11 @@ const routes = [
     path: "/Contact",
     name: "Contact",
     component: Contact,
+  },
+  {
+    path: "/1pentue",
+    name: "1pentue",
+    component: Pentue1,
   },
 ];
 

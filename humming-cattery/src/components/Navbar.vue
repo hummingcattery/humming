@@ -35,7 +35,7 @@
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Pentueet</a>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                        <li><a class="dropdown-item" href="#">1. pentue</a></li>
+                                        <li><router-link class="nav-link" to="/1Pentue">1. pentue</router-link></li>
                                         <li><a class="dropdown-item" href="#">2. pentue</a></li>
                                         <li><a class="dropdown-item" href="#">3. pentue</a></li>
                                         <li><a class="dropdown-item" href="#">4. pentue</a></li>
