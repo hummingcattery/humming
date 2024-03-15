@@ -32,7 +32,7 @@
             <p>
                 <h5>Hekla</h5>
                 <div>
-                    <img class="img-fluid" title="Hekla" src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\assets\Images\20230721_011959.jpg" alt="Hekla" width="273" height="373">
+                    <img class="img-fluid" title="Hekla" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Hekla_01.jpeg" alt="Hekla" width="1200" height="1600">
                 </div>
             </p>
         </div>
