@@ -3,10 +3,15 @@
         <div class="content-container">
             <h5>Halka</h5>
             <p>SP, SC Recknagel Tairapänks, DVM, DSM</p>
-            <p>SBI a</p>
-            <p>s. 21.6.2009</p>
-            <p>isä: IC FI*Zhamanen Fangio, JW (SBI n)</p>
-            <p>emo: FI*Recknagel Fridakahlo (SBI b)</p>
+            <p>SBI a
+                <br>
+                s. 21.6.2009
+            </p>
+            <p>
+                isä: IC FI*Zhamanen Fangio, JW (SBI n)
+                <br>
+                emo: FI*Recknagel Fridakahlo (SBI b)
+            </p>
             <p>Näyttelymenestys:
                 <span style="color: #339966;">14xBIV</span>,
                 <span style="color: #3366ff;">19xNOM</span> &amp;
