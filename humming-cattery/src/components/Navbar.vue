@@ -3,7 +3,7 @@
 
 <template>
     <div class="page-content">
-        <div class="navbarContent">
+        <div class="navbar-content">
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container-fluid">
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -61,5 +61,6 @@
 <style lang="scss" scoped>
     .page-content {
         background-color: #F8F3FC;
+        margin-bottom: 1rem;
     }
 </style>
