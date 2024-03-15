@@ -31,6 +31,12 @@
 <style lang="scss" scoped>
     .content-container {
         background-color: #F8F3FC;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: flex-start;
+        padding: 2rem;
     }
 
     h5 {

@@ -3,7 +3,7 @@
         <div class="content-container">
             <p>
                 <h5>Halka</h5>
-                <p>SC Recknagel Tairapänks, DVM</p>
+                <p>SP, SC Recknagel Tairapänks, DVM, DSM</p>
                 <div col-3>
                     <img class="img-fluid" title="SC FI*Recknagel Tairapänks" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Halka_01.jpg" alt="Halka" width="900" height="600">
                 </div>
@@ -45,6 +45,12 @@
 <style lang="scss" scoped>
     .content-container {
         background-color: #F8F3FC;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: flex-start;
+        padding: 2rem;
     }
 
     h5 {
