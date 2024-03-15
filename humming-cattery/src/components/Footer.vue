@@ -1,7 +1,7 @@
 <template>
     <div class="footer">
-        <div class="footerContent">
-            <footer class="text-center text-white" style="background-color: #f1f1f1;">
+        <div class="footer-content">
+            <footer class="text-center text-white" style="background-color: #F8F3FC;">
                 <div class="container pt-4">
                     <section>
                     <!-- Facebook -->
@@ -10,7 +10,7 @@
                         href="https://www.facebook.com/hummingcattery/"
                         role="button"
                         data-mdb-ripple-color="dark">
-                        <img class="iconImage" src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\components\icons\Facebook_icon.svg.png" alt="...">
+                        <img class="icon-image" src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\components\icons\Facebook_icon.svg.png" alt="...">
                     </a>
 
                     <!-- Instagram -->
@@ -19,7 +19,7 @@
                         href="https://www.instagram.com/hummingcattery/"
                         role="button"
                         data-mdb-ripple-color="dark">
-                        <img class="iconImage" src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\components\icons\Instagram_Glyph_Gradient_RGB_logo.svg.png" alt="...">
+                        <img class="icon-image" src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\components\icons\Instagram_Glyph_Gradient_RGB_logo.svg.png" alt="...">
                     </a>
                     </section>
                 </div>
@@ -34,21 +34,16 @@
 <style lang="scss" scoped>
     .footer {
         width: auto;
+        background-color: #F8F3FC;
     }
 
-    .carouselContent {
-        height: auto;
-        width: auto;
-    }
-
-    .iconImage {
+    .icon-image {
         height: 2rem;
         width: 2rem;
     }
 
-    .footerContent {
+    .footer-content {
         align-items: center;
-        /* display: inline-flex; */
     }
 
     div > p {
