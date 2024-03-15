@@ -24,7 +24,7 @@
                     </section>
                 </div>
                 <div>
-                    <p>Päivitetty 17.2.2024</p>
+                    <p>Päivitetty 15.3.2024</p>
                 </div>
             </footer>
         </div>
