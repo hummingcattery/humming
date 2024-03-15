@@ -2,11 +2,9 @@
 </script>
 
 <template>
-    <div class="pageContent">
+    <div class="page-content">
         <div class="navbarContent">
-            <!-- navbar -->
-            <!-- create a component!!! -->
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container-fluid">
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -59,3 +57,9 @@
     </div>
     <router-view />
 </template>
+
+<style lang="scss" scoped>
+    .page-content {
+        background-color: #F8F3FC;
+    }
+</style>
