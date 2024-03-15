@@ -1,29 +1,20 @@
 <template>
     <div>
         <div class="content-container">
-            <p>
-                <h5>Halka</h5>
-                <p>SP, SC Recknagel Tairapänks, DVM, DSM</p>
-                <div col-3>
-                    <img class="img-fluid" title="SC FI*Recknagel Tairapänks" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Halka_01.jpg" alt="Halka" width="900" height="600">
-                </div>
-            </p>
-            <p>
-                SBI a
-                <br>
-                s. 21.6.2009
-            </p>
-            <p>
-                isä: IC FI*Zhamanen Fangio, JW (SBI n)
-                <br>
-                emo: FI*Recknagel Fridakahlo (SBI b)
-            </p>
-            <p>
-                Näyttelymenestys:
+            <h5>Halka</h5>
+            <p>SP, SC Recknagel Tairapänks, DVM, DSM</p>
+            <p>SBI a</p>
+            <p>s. 21.6.2009</p>
+            <p>isä: IC FI*Zhamanen Fangio, JW (SBI n)</p>
+            <p>emo: FI*Recknagel Fridakahlo (SBI b)</p>
+            <p>Näyttelymenestys:
                 <span style="color: #339966;">14xBIV</span>,
                 <span style="color: #3366ff;">19xNOM</span> &amp;
                 <span style="color: #ff0000;">2xBIS</span>
             </p>
+            <div col-3>
+                <img class="img-fluid" title="SC FI*Recknagel Tairapänks" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Halka_01.jpg" alt="Halka" width="900" height="600">
+            </div>
         </div>
 
         <hr>
