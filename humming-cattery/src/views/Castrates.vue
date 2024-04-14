@@ -13,9 +13,8 @@
                 emo: FI*Recknagel Fridakahlo (SBI b)
             </p>
             <p>Näyttelymenestys:
-                <span style="color: #339966;">14xBIV</span>,
-                <span style="color: #3366ff;">19xNOM</span> &amp;
-                <span style="color: #ff0000;">2xBIS</span>
+                <span>Multi BIS (& BIV & NOM) Winner</span>,
+                <span>Vuoden kissa 2014</span>
             </p>
             <div col-3>
                 <img class="img-fluid" title="SC FI*Recknagel Tairapänks" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Halka_01.jpg" alt="Halka" width="900" height="600">
@@ -26,8 +25,20 @@
 
         <div class="content-container">
             <p>
-                <h5>Hekla</h5>
-                <div>
+                <h5>Hekla "FI*Humming Birdy"</h5>
+                <p>SBI c
+                <br>
+                s. 10.5.2013
+                </p>
+                <p>
+                    isä: CH*Tamus Thunderbird
+                    <br>
+                    emo: Recknagel Tairapänks
+                </p>
+                <p>Näyttelymenestys:
+                    <span>Useampi BIV & NOM pentuluokissa. Hekla ei ole näyttelytasoinen, joten aikuisena ei ole käyty näyttelyissä. :)</span>
+                </p>
+                <div col-3>
                     <img class="img-fluid" title="Hekla" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Hekla_01.jpeg" alt="Hekla" width="1200" height="1600">
                 </div>
             </p>
