@@ -50,6 +50,7 @@
 <style lang="scss" scoped>
     .content-container {
         background-color: #F8F3FC;
+        padding: 2rem;
     }
 
     .custom-table tbody tr {
