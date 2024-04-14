@@ -4,8 +4,12 @@
     </div>
 
     <div class="content-container">
-        <p>Meillä on pentuja yhdistelmästä Demi JohnNatarie -E - US*Kyatwo T'Challa's Glory</p>
-        <p>s. 26.2.2024</p>
+        <p>
+            Meillä on pentuja yhdistelmästä Demi JohnNatarie -E - US*Kyatwo T'Challa's Glory
+        </p>
+        <p>
+            s. 26.2.2024
+        </p>
     </div>
 
     <table class="table table-bordered custom-table">
@@ -34,5 +38,6 @@
 <style lang="scss" scoped>
     .content-container {
         background-color: #F8F3FC;
+        padding: 2rem;
     }
 </style>
