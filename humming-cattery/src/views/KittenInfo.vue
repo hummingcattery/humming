@@ -5,6 +5,9 @@
 
     <div class="content-container">
         <p>
+            <strong>Yleistä</strong>
+        </p>
+        <p>
             Meillä on ollut vuosien saatossa hyvin harvakseltaan pentuja, mutta nyt (2024) taloudessa on kaksi naarasta, sekä jatkossa on tarkoitus sijoittaa 1-2 pentua per pentue, joten
             jatkossa pentueita voi olla jopa 2kpl vuosittain. Tiedotamme pentukorissa ajantasaisesta pentuetilanteesta, sekä tulevista pentuesuunnitelmista.
         </p>
@@ -35,7 +38,7 @@
             Sijoitussopimus (pentujen hoidon osalta) voidaan laatia muutamalla eri tavalla.<br>
         <ol>
             <li>Sijoituskissa saa pennut sijoituskodissa ja pennut kasvavat sijoituskodissa kunnes täyttävät 14 viikkoa.</li>
-            <li>Sijoituskissa muuttaa sijoituskotiin n 1-2 viikkoa ennen synnytystä ja pennut asuvat kasvattajalla n. ensimmäiset 4 viikkoa, jonka jälkeen emo ja pennut muuttavat sijoituskotiin</li>
+            <li>Sijoituskissa muuttaa sijoituskotiin n. 1-2 viikkoa ennen synnytystä ja pennut asuvat kasvattajalla n. ensimmäiset 4 viikkoa, jonka jälkeen emo ja pennut muuttavat sijoituskotiin</li>
             <li>Sijoituskissa muuttaa sijoituskotiin n. 1-2 viikkoa ennen synnytystä ja pysyy sijoituskodissa kunnes pennut ovat 14 viikkoisia.</li>
         </ol>
         </p>

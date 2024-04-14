@@ -9,24 +9,24 @@
     </div>
     
     <h3>Pennut</h3>
-    <table class="table table-bordered custom-table">
-      <tbody>
-        <tr>
-          <td>Humming Hoppipolla</td>
-          <td>SBI b 21</td>
-          <td>uros</td>
-          <td>Lemmikki</td>
-        </tr>
-        <tr>
-          <td>Humming Staralfur</td>
-          <td>SBI b 21</td>
-          <td>uros</td>
-          <td>Lemmikki</td>
-        </tr>
-      </tbody>
-    </table>
+    <div class="content-container">
+        <table class="table table-bordered custom-table">
+          <tbody>
+            <tr>
+              <td>Humming Hoppipolla</td>
+              <td>SBI b 21</td>
+              <td>uros</td>
+              <td>Lemmikki</td>
+            </tr>
+            <tr>
+              <td>Humming Staralfur</td>
+              <td>SBI b 21</td>
+              <td>uros</td>
+              <td>Lemmikki</td>
+            </tr>
+          </tbody>
+        </table>
 
-    <div>
         <img class="img-fluid" title="3. pentue" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\pentue_03.jpg" alt="3. pentue" width="1600" height="1064">
     </div>
 </template>
@@ -39,5 +39,13 @@
 
     .custom-table tbody tr {
         --bs-table-bg: #F8F3FC !important;
+    }
+
+    img {
+        object-fit: contain;
+        transform: scale(0.75);
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 </style>

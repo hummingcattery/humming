@@ -1,8 +1,7 @@
 <template>
     <div>
         <div class="content-container">
-            <h5>Halka</h5>
-            <p>SP, SC Recknagel Tairapänks, DVM, DSM</p>
+            <h5>"Halka" SP, SC Recknagel Tairapänks, DVM, DSM</h5>
             <p>SBI a
                 <br>
                 s. 21.6.2009
@@ -25,7 +24,7 @@
 
         <div class="content-container">
             <p>
-                <h5>Hekla "FI*Humming Birdy"</h5>
+                <h5>"Hekla" FI*Humming Birdy</h5>
                 <p>SBI c
                 <br>
                 s. 10.5.2013
@@ -62,5 +61,13 @@
 
     h5 {
         font-weight: bold;
+    }
+
+    img {
+        object-fit: contain;
+        transform: scale(0.75);
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 </style>

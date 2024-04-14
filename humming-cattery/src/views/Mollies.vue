@@ -15,8 +15,8 @@
 
         <div class="content-container">
             <h5>Hulda</h5>
-            <p>Unica vom Lilienweg / synt. 7.8.2023 / SBI b 21</p>
-            <p>Näyttelymenestys (pennut): 2xCACC</p>
+            <p>KCH Unica vom Lilienweg / synt. 7.8.2023 / SBI b 21</p>
+            <p>Näyttelymenestys (pennut): Kitten Champion, 2xNOM</p>
             <p>Sukutaulu: Linkki omakissaan</p>
             <div>
                 <img class="img-fluid" title="Unica vom Lilienweg" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Hulda_01.jpg" alt="Hulda" width="700" height="1000">
@@ -41,5 +41,13 @@
 
     h5 {
         font-weight: bold;
+    }
+
+    img {
+        object-fit: contain;
+        transform: scale(0.75);
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 </style>
