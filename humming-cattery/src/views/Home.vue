@@ -3,12 +3,17 @@
         <h1>Tervetuloa FI*Humming pyhä birma -kissalan sivuille!</h1>
     </div>
     <div class="content-container">
-        <img class="img-fluid" title="Unica vom Lilienweg" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Hulda_01.jpg" alt="Hulda" width="700" height="1000">
+        <p>
+            Meillä on pentuja, etsinnässä kaksi eri sijoituskotia PK-seudulta tai sopimuksen mukaan myös esim. Pirkanmaalta. Mahdollista myös sijoittaa molemmat tytöt samaan kotiin.<br>
+            Lue sijoitusehdoista Kissalan Pentu-infosta.
+        </p>
+        <img class="img-fluid" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Etusivu.jpg" width="700" height="1000">
     </div>
 </template>
 
 <style lang="scss" scoped>
     .content-container {
         background-color: #F8F3FC;
+        padding: 2rem;
     }
 </style>
