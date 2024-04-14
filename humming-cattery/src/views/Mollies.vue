@@ -1,11 +1,14 @@
 <template>
     <div>
         <div class="content-container">
-            <h5>Hillevi</h5>
-            <p>Demi Johnnatarie -E / synt. 1.3.2022 / SBI b</p>
+            <h5>"Hillevi" Demi Johnnatarie -E</h5>
+            <p>SBI b
+                <br>
+                s. 1.3.2022
+            </p>
             <p>Yhteisomistuksessa LeeviL-kissalan kanssa</p>
             <p>Näyttelymenestys (nuorten luokka): 3xBIV, 5xNOM, 1xBIS</p>
-            <p>Sukutaulu: Linkki omakissaan</p>
+            <a href="https://kissat.kissaliitto.fi/Pedigree?id=296517" target="_blank">Sukutaulu</a>
             <div>
                 <img class="img-fluid" title="Demi Johnnatarie -E" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Hillevi_01.jpg" alt="Hillevi" width="1300" height="953">
             </div>
@@ -14,10 +17,13 @@
         <hr>
 
         <div class="content-container">
-            <h5>Hulda</h5>
-            <p>KCH Unica vom Lilienweg / synt. 7.8.2023 / SBI b 21</p>
+            <h5>"Hulda" KCH Unica vom Lilienweg</h5>
+            <p>SBI b 21
+                <br>
+                s. 7.8.2023
+            </p>
             <p>Näyttelymenestys (pennut): Kitten Champion, 2xNOM</p>
-            <p>Sukutaulu: Linkki omakissaan</p>
+            <a href="https://kissat.kissaliitto.fi/Pedigree?id=323820" target="_blank">Sukutaulu</a>
             <div>
                 <img class="img-fluid" title="Unica vom Lilienweg" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\assets\images\Hulda_01.jpg" alt="Hulda" width="700" height="1000">
             </div>
