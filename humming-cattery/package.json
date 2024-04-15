@@ -2,7 +2,7 @@
   "name": "humming",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://hummingcattery.github.io/Humming/",
+  "homepage": "https://blue-moss-09b9fbe03.5.azurestaticapps.net/Humming/",
   "type": "module",
   "scripts": {
     "dev": "vite",
