@@ -10,7 +10,7 @@
                         href="https://www.facebook.com/hummingcattery/"
                         role="button"
                         data-mdb-ripple-color="dark">
-                        <img class="icon-image" src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\components\icons\Facebook_icon.svg.png" alt="...">
+                        <img class="icon-image" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\components\icons\Facebook_icon.svg" alt="Facebook icon">
                     </a>
 
                     <!-- Instagram -->
@@ -19,7 +19,7 @@
                         href="https://www.instagram.com/hummingcattery/"
                         role="button"
                         data-mdb-ripple-color="dark">
-                        <img class="icon-image" src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\components\icons\Instagram_Glyph_Gradient_RGB_logo.svg.png" alt="...">
+                        <img class="icon-image" src="C:\Users\Tomi\Coding\FullStack\humming\humming-cattery\src\components\icons\Instagram_icon.svg" alt="Instagram icon">
                     </a>
                     </section>
                 </div>
